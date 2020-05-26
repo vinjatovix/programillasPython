@@ -1,0 +1,12 @@
+{
+    "Frecuencia": [
+        "Cantidad de veces que un suceso se repite en un lapso de tiempo"
+    ],
+    "Amplitud": [
+        "Desplazamiento de una molecula por el espacio desde su punto de origen"
+    ],
+    "Fase": [
+        "Estado instantaneo en el que se encuentra el ciclo",
+        "Pantalla en la que te encuentras de un videojuego"
+    ]
+}
