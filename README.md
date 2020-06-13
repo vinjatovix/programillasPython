@@ -14,3 +14,7 @@ Recopilación de algunos programillas resultantes de los ejercicios que voy haci
 05.- Amagrama es un programilla que comprueba si un string es Anagrama de otro
 
 06.- Juego de la carta mas alta para dos jugadores
+
+07.- Cuenta la cantidad de cada letra de un determinado string
+
+08.- Este es un pequeño programa que sirve para desencriptar una determinada encriptación de un ejerció de hacking ético
