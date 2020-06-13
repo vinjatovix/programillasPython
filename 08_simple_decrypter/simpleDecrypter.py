@@ -6,7 +6,7 @@ decryptedMsg = ''
 
 def stringToArray():
     global listaInicial
-    with open('08.-simple_decrypter/testdata.txt') as f:
+    with open('08_simple_decrypter/testdata.txt') as f:
         f = f.read()
         listaInicial = f.split(' ')
         listaInicial = ''.join(listaInicial)
