@@ -166,5 +166,5 @@ class Partida:
         return "... no hay un ganador ..."
 
 
-game = Partida()
-game.jugar()
+juego = Partida()
+juego.jugar()
