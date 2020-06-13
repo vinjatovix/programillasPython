@@ -24,3 +24,5 @@ Recopilación de algunos programillas resultantes de los ejercicios que voy haci
 10.- FizzBuzz en python
 
 11.- Es una posible solucion a Piedra Papel Tijera Lagarto Spock
+
+12.- El más simple de los emcriptadores
