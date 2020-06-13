@@ -18,3 +18,5 @@ Recopilación de algunos programillas resultantes de los ejercicios que voy haci
 07.- Cuenta la cantidad de cada letra de un determinado string
 
 08.- Este es un pequeño programa que sirve para desencriptar una determinada encriptación de un ejerció de hacking ético
+
+09.- Este programa imprime los numeros que contienen la secuencia 1337 en la serie de fibonacci
