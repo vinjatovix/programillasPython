@@ -11,7 +11,7 @@ Recopilación de algunos programillas resultantes de los ejercicios que voy haci
 
 04.- WORK IN PROGRESS
 
-05.- Amagrama es un programilla que comprueba si un string es Anagrama de otro
+05.- Amagrama y palindromo son programillas que comprueban strings
 
 06.- Juego de la carta mas alta para dos jugadores
 
@@ -20,3 +20,7 @@ Recopilación de algunos programillas resultantes de los ejercicios que voy haci
 08.- Este es un pequeño programa que sirve para desencriptar una determinada encriptación de un ejerció de hacking ético
 
 09.- Este programa imprime los numeros que contienen la secuencia 1337 en la serie de fibonacci
+
+10.- FizzBuzz en python
+
+11.- Es una posible solucion a Piedra Papel Tijera Lagarto Spock
