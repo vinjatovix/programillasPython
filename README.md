@@ -26,3 +26,5 @@ Recopilación de algunos programillas resultantes de los ejercicios que voy haci
 11.- Es una posible solucion a Piedra Papel Tijera Lagarto Spock
 
 12.- El más simple de los emcriptadores
+
+13.- Generadores de python, yield, loteria simple
