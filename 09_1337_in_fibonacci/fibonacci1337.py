@@ -2,7 +2,7 @@ x = 1
 y = 1
 z = 0
 j = []
-for i in range(30000):
+for i in range(4000):
     if '1337' in str(x):
         j.append(i)
         j.append(x)
@@ -12,3 +12,4 @@ for i in range(30000):
     y = z
 
 print(j)
+
