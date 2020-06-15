@@ -28,3 +28,5 @@ Recopilación de algunos programillas resultantes de los ejercicios que voy haci
 12.- El más simple de los emcriptadores
 
 13.- Generadores de python, yield, loteria simple
+
+14.- RegEx, buscador simple de telefonos en documentos
